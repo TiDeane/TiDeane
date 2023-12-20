@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🎓 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico, Lisbon, Portugal  \
+🎓 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico, Lisbon, Portugal (expected to graduate July 2024)  \
 🎓 AWS Certified Cloud Practitioner until September 03, 2026
 
 -------------------------
