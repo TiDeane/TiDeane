@@ -3,7 +3,9 @@
 🎓 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico, Lisbon, Portugal  \
 🎓 AWS Certified Cloud Practitioner until September 03, 2026
 
+-------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiDeane&hide=javascript,css,scss,html&theme=tokyonight)
+[![Badge](https://github.com/TiDeane/TiDeane/assets/120483063/a24d308e-1a0a-40f5-ad35-050005358ede)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
 
 <!--
 **TiDeane/TiDeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
