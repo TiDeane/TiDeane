@@ -56,7 +56,7 @@ Generally speaking, code quality consistently improves over time.
     - Labs: [Cache Simulation](https://github.com/LC1243/Cache-Simulator) [ C ]
 
 - (P1) **Machine Learning** _(Aprendizagem - **Apre**)_ - 6.0 ECTS
-    - Homeworks: [Homeworks](https://github.com/TiDeane/ML-Homeworks) [ C]
+    - Homeworks: [Homeworks](https://github.com/TiDeane/ML-Homeworks)
 
 - (P2) **Computer Networks** _(Redes de Computadores - **RC**)_ - 6.0 ECTS
     - Project: [Auction Server](https://github.com/TiDeane/Auction-Server) [ C ]
