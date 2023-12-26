@@ -20,7 +20,7 @@ Generally speaking, code quality consistently improves over time.
     - Project: [Airport System](https://github.com/TiDeane/Airport-System) [ C ]
 
 - (P2) **Introduction to Computer Architecture** _(Introdução à Arquitetura de Computadores - **IAC**)_ - 6.0 ECTS
-    - Project: [Meteor Rain](https://github.com/TiDeane/Meteor-Rain) [ P4 Assembly ]
+    - Project: [Meteor Rain](https://github.com/TiDeane/Meteor-Rain) [ Assembly ]
 
 ## Year 2
 
