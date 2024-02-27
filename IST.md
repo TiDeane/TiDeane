@@ -61,9 +61,10 @@ Generally speaking, code quality consistently improves over time.
 - (P2) **Computer Networks** _(Redes de Computadores - **RC**)_ - 6.0 ECTS
     - Project: [Auction Server](https://github.com/TiDeane/Auction-Server) [ C ]
 
-- (P2) **Systems Analysis and Modeling** _(Análise e Modelação de Sistemas - **AMS**)_ - 6.0 ECTS
-    - Project: Currently in development
-
 ### Year 3, Semester 2
 
-- To be determined...
+- (P1) **Distributed Systems** _(Sistemas Distribuídos - **SD**)_ - 6.0 ECTS
+    - Project: In development...
+
+- (P1) **Software Engineering** _(Engenharia de Software - **ES**)_ - 6.0 ECTS
+    - Project: In development... 
