@@ -63,8 +63,14 @@ Generally speaking, code quality consistently improves over time.
 
 ### Year 3, Semester 2
 
-- (P1) **Distributed Systems** _(Sistemas Distribuídos - **SD**)_ - 6.0 ECTS
+- (P3) **Distributed Systems** _(Sistemas Distribuídos - **SD**)_ - 6.0 ECTS
+    - Project: [TupleSpaces](https://github.com/TiDeane/TupleSpaces-SD) [ Java, Python, Protobuf ]
+
+- (P3) **Software Engineering** _(Engenharia de Software - **ES**)_ - 6.0 ECTS
+    - Project: [HumanaEthica](https://github.com/TiDeane/HumanaEthica-ES) [ Java, Groovy, Vue.js, Cypress ]
+
+- (P4) **Compilers** *(Compiladores - **Com**)* - 6.0 ECTS
     - Project: In development...
 
-- (P1) **Software Engineering** _(Engenharia de Software - **ES**)_ - 6.0 ECTS
-    - Project: In development... 
+- (P4) **Computer Graphics** *(Computação Gráfica - **CG**)* - 6.0 ECTS
+    - Project: In development...
