@@ -1,11 +1,13 @@
 ### Hi there 👋
 
-🎓 Studying Computer Science and Engineering (LEIC) at Instituto Superior Técnico, Lisbon, Portugal (expected to graduate July 2024)  \
-🎓 AWS Certified Cloud Practitioner until September 03, 2026
+🎓 Currently doing a Masters in Computer Science and Engineering (MEIC) at Instituto Superior Técnico, Lisbon, Portugal (expected to graduate July 2026)  \
+🎓 AWS Certified Solutions Architect and Cloud Practitioner
+
+[![CloudPractitioner](https://github.com/user-attachments/assets/ea858aa4-9c0f-420a-83c1-91e7681c61cc)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
+[![SolutionsArchitect](https://github.com/user-attachments/assets/67141568-b5bb-4da5-a6a2-5cf5f988aa17)](https://www.credly.com/badges/90b1dff1-8827-4d07-ba9f-24471da65096/public_url)
 
 -------------------------
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiDeane&hide=javascript,css,scss,html,groovy&theme=tokyonight&exclude_repo=ML-Homeworks)
-[![Badge](https://github.com/TiDeane/TiDeane/assets/120483063/a24d308e-1a0a-40f5-ad35-050005358ede)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
 
 <!--
 **TiDeane/TiDeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
