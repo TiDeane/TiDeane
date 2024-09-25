@@ -70,7 +70,7 @@ Generally speaking, code quality consistently improves over time.
     - Project: [HumanaEthica](https://github.com/TiDeane/HumanaEthica-ES) [ Java, Groovy, Vue.js, Cypress ]
 
 - (P4) **Compilers** *(Compiladores - **Com**)* - 6.0 ECTS
-    - Project: To be added...
+    - Project: [TIL Compiler](https://github.com/TiDeane/TIL-Compiler) [ C++, Yacc, Lex ]
 
 - (P4) **Computer Graphics** *(Computação Gráfica - **CG**)* - 6.0 ECTS
-    - Project: To be added...
+    - Project: Private...
