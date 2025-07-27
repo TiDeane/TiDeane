@@ -1,15 +1,15 @@
 # IST Course Projects: LEIC-A / BSc CSE
 
-This is a portfolio of the programming projects I developed (by myself or with a group) for my Bachelor's Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), University of Lisbon. Courses with no (existing/relevant) projects are obviously excluded.
+This is a portfolio of the programming projects I developed for my Bachelor's Degree in Computer Science and Engineering at [Instituto Superior Técnico](https://tecnico.ulisboa.pt/en/), University of Lisbon. Courses with no (existing/relevant) projects are obviously excluded.
 
-Generally speaking, code quality consistently improves over time.
+I'd never coded before starting this degree, so code quality consistently improves over time. A better representation of my current coding capabilities can be seen on my [Master's degree projects](/IST_MEIC-A.md) and personal projects.
 
 ## Year 1
 
 ### Year 1, Semester 1
 
 - (P1) **Foundations of Programming** _(Fundamentos da Programação - **FP**)_ - 6.0 ECTS
-    - Project 2: [Meadow Simulator](https://github.com/TiDeane/Meadow-Simulation) [ Python ]
+    - Project: Private... [ Python ]
 
 - (P2) **Logic for Programming** _(Lógica para Programação - **LP**)_ - 6.0 ECTS
     - Project: [Hashi Puzzle Solver](https://github.com/TiDeane/Hashi-Puzzle-Solver) [ Prolog ]
@@ -73,4 +73,8 @@ Generally speaking, code quality consistently improves over time.
     - Project: [TIL Compiler](https://github.com/TiDeane/TIL-Compiler) [ C++, Yacc, Lex ]
 
 - (P4) **Computer Graphics** *(Computação Gráfica - **CG**)* - 6.0 ECTS
-    - Project: Private...
+    - Project: Private... [ Three.js ]
+
+## Master's Degree
+
+Projects available [here](/IST_MEIC-A.md).
