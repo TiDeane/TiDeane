@@ -2,12 +2,14 @@
 
 🎓 Currently doing a Master's in Computer Science and Engineering (MEIC) at Instituto Superior Técnico (expected to graduate July 2026)  \
 🎓 Bachelor in Computer Science and Engineering (LEIC) from Instituto Superior Técnico, Lisbon, Portugal  \
-🎓 AWS Certified Solutions Architect (Associate) and Cloud Practitioner. Currently studying for the AWS Certified Developer certification.
+🎓 AWS Certified Solutions Architect (Associate), Certified Developer (Associate) and Certified Cloud Practitioner.
 
 Passionate about learning. Interested in working abroad, learning new languages and experiencing different cultures.
 
-[![CloudPractitioner](https://github.com/user-attachments/assets/ea858aa4-9c0f-420a-83c1-91e7681c61cc)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
-[![SolutionsArchitect](https://github.com/user-attachments/assets/67141568-b5bb-4da5-a6a2-5cf5f988aa17)](https://www.credly.com/badges/90b1dff1-8827-4d07-ba9f-24471da65096/public_url)
+[![CloudPractitioner](https://github.com/user-attachments/assets/c6fdfb2b-23c7-49f0-9e9b-1e96067ecee7)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
+[![SolutionsArchitect](https://github.com/user-attachments/assets/de4f2848-2c6b-4d65-85a8-4ed67b7782c2)](https://www.credly.com/badges/90b1dff1-8827-4d07-ba9f-24471da65096/public_url)
+[![Developer](https://github.com/user-attachments/assets/c4528fdc-fac7-454e-bd0c-d10c675d1e5a)](https://www.credly.com/badges/208bf604-03a4-4d24-a1e4-43dfabd9b601/public_url)
+
 
 -------------------------
 
