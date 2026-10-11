@@ -35,4 +35,38 @@ More course projects in the [Master's](IST_MEIC-A.md) and [Bachelor's](IST_LEIC-
 
 ---
 
+## Stack
+
+**Most used**
+
+<p>
+  <img src="assets/icons/java.svg" alt="Java" title="Java" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/python.svg" alt="Python" title="Python" width="40" height="40" />
+</p>
+
+**Familiar with**
+
+<p>
+  <img src="assets/icons/c.svg" alt="C" title="C" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/javascript.svg" alt="JavaScript" title="JavaScript" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/tailwindcss.svg" alt="CSS (Tailwind)" title="CSS (Tailwind)" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/html5.svg" alt="HTML" title="HTML" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/nodejs.svg" alt="Node.js" title="Node.js" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/vuejs.svg" alt="Vue.js" title="Vue.js" width="40" height="40" />
+</p>
+
+**Frameworks, tools and technologies**
+
+<p>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/amazonwebservices-dark.svg" /><img src="assets/icons/amazonwebservices.svg" alt="AWS" title="AWS" width="40" height="40" /></picture>&nbsp;&nbsp;
+  <img src="assets/icons/docker.svg" alt="Docker" title="Docker" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/postgresql.svg" alt="SQL" title="SQL" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/dynamodb.svg" alt="NoSQL (DynamoDB)" title="NoSQL (DynamoDB)" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/springboot.svg" alt="Spring Boot" title="Spring Boot" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/maven.svg" alt="Maven" title="Maven" width="40" height="40" />&nbsp;&nbsp;
+  <img src="assets/icons/git.svg" alt="Git" title="Git" width="40" height="40" />
+</p>
+
+---
+
 Off the clock, I'm usually reading or watching something: [Goodreads](https://www.goodreads.com/tideane) · [Letterboxd](https://letterboxd.com/TDeane) · [MyAnimeList](https://myanimelist.net/profile/Deane)
