@@ -1,32 +1,38 @@
-### Hi there 👋
+# Tiago Deane
 
-🎓 Currently doing a Master's in Computer Science and Engineering (MEIC) at Instituto Superior Técnico (expected to graduate July 2026)  \
-🎓 Bachelor in Computer Science and Engineering (LEIC) from Instituto Superior Técnico, Lisbon, Portugal  \
-🎓 AWS Certified Solutions Architect (Associate), Certified Developer (Associate) and Certified Cloud Practitioner.
+Software Engineer at Mastercard, on the Digital Authentication Services team.
 
-Passionate about learning. Interested in working abroad, learning new languages and experiencing different cultures.
+Passionate about building scalable, reliable systems. My background is in software engineering and cloud-based distributed systems.
+
+🌐 [tiagodeane.com](https://tiagodeane.com) · 💼 [LinkedIn](https://www.linkedin.com/in/tiago-deane/) · 📫 [tiagodeane@gmail.com](mailto:tiagodeane@gmail.com)
+
+---
+
+## Interesting Projects
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **Personal website** ([frontend](https://github.com/TiDeane/Personal-website-frontend), [backend](https://github.com/TiDeane/Personal-website-backend)) | Astro, Tailwind CSS, AWS (S3, CloudFront, API Gateway, Lambda, DynamoDB, SAM) | [tiagodeane.com](https://tiagodeane.com), my resume site. The frontend is a static single page served from S3 behind CloudFront. The backend counts visitors per country, running on Lambda behind API Gateway with a DynamoDB table, deployed with AWS SAM. Both ship through GitHub Actions. |
+| **[Games@Cloud](https://github.com/TiDeane/CNV-Cloud-Webserver)** | Java, Javassist, AWS (EC2, Lambda, DynamoDB) | Custom cloud orchestration system on AWS for computationally demanding tasks. Instrumented webservers record request complexity metrics in DynamoDB, and a custom load balancer and auto-scaler uses them to route each request to EC2 or Lambda, balancing performance against cost. |
+| **[Chain Of Product](https://github.com/TiDeane/ChainOfProduct)** | Java, Java Cryptography Architecture (RSA, AES), PostgreSQL, TLS | Secure service for sharing supply-chain transaction documents between companies that distrust each other. A custom cryptographic library provides confidentiality, authentication and integrity, with selective disclosure to individual partners or to groups tracked by a separate group server. |
+| **[Link Highlighter](https://github.com/TiDeane/Link-Highlighter)** | JavaScript | Browser extension that highlights every link you have already opened, published for Firefox and Chrome. |
+
+More course projects in the [Master's](IST_MEIC-A.md) and [Bachelor's](IST_LEIC-A.md) portfolios.
+
+---
+
+## Education and certifications
+
+- 🎓 **Master in Computer Science and Engineering (MEIC)**, Instituto Superior Técnico, Lisbon, Portugal (2024 - 2026).
+  - Specialized in Software Engineering and Distributed Systems.
+  - Thesis (under development): _**Triage**: Automating Decision-making for Optimizing Serverless Functions with a Utility-driven Framework_.
+- 🎓 **Bachelor in Computer Science and Engineering (LEIC)**, Instituto Superior Técnico, Lisbon, Portugal (2021 - 2024).
+- 🎓 **AWS Certified** Solutions Architect (Associate), Developer (Associate) and Cloud Practitioner.
 
 [![CloudPractitioner](https://github.com/user-attachments/assets/c6fdfb2b-23c7-49f0-9e9b-1e96067ecee7)](https://www.credly.com/badges/9d94075d-c315-4582-9c3e-73b7f2b26f3e/public_url)
 [![SolutionsArchitect](https://github.com/user-attachments/assets/de4f2848-2c6b-4d65-85a8-4ed67b7782c2)](https://www.credly.com/badges/90b1dff1-8827-4d07-ba9f-24471da65096/public_url)
 [![Developer](https://github.com/user-attachments/assets/c4528fdc-fac7-454e-bd0c-d10c675d1e5a)](https://www.credly.com/badges/208bf604-03a4-4d24-a1e4-43dfabd9b601/public_url)
 
+---
 
--------------------------
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiDeane&hide=javascript,css,scss,html,groovy&theme=tokyonight&exclude_repo=ML-Homeworks)
-
-
-<!--
-**TiDeane/TiDeane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Off the clock, I'm usually reading or watching something: [Goodreads](https://www.goodreads.com/tideane) · [Letterboxd](https://letterboxd.com/TDeane) · [MyAnimeList](https://myanimelist.net/profile/Deane)
