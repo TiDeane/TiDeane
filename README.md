@@ -18,7 +18,7 @@ Passionate about building scalable, reliable systems. My background is in softwa
 | **[Opened Link Highlighter](https://github.com/TiDeane/Link-Highlighter)** | JavaScript, WebExtensions (Manifest V3), Node.js, jsdom, GitHub Actions | Browser extension, published on the [Chrome Web Store](https://chromewebstore.google.com/detail/opened-link-highlighter/hbdaiciogdfmibiekklhllpbldhodbil) and [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/opened-link-highlighter/), that highlights every link you have already opened, on any page and across tabs. Highlights update live on endless-scrolling pages, and colors and URL matching are customizable. A test suite runs the real extension code against a simulated browser page (jsdom) in Node.js, through GitHub Actions on every push. |
 | **[Statement Portfolio Tracker](https://github.com/TiDeane/Statement-Portfolio-Tracker)** | Python, PySide6 (Qt), openpyxl, PyInstaller, Inno Setup, GitHub Actions | Desktop app for non-technical users that reads a Revolut investment account statement, values each holding at live Yahoo Finance prices, and keeps a history in the user's own Excel workbook without disturbing their sheets, tables or charts. GitHub Actions builds and tests releases for Windows, macOS and Linux. |
 
-More course projects in the [Master's](IST_MEIC-A.md) and [Bachelor's](IST_LEIC-A.md) portfolios.
+More projects in the [Master's](IST_MEIC-A.md) and [Bachelor's](IST_LEIC-A.md) portfolios.
 
 ---
 
