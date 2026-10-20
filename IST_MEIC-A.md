@@ -66,6 +66,6 @@ I specialized in Software Engineering and Distributed Systems, and also did some
 ### Engineering and Data Science
 
 - (P1) **Data Analysis and Integration**
-    - Project: Private... [ SQL, MDX ]  \
+    - Project: [UK Price Paid Data Warehouse](https://github.com/TiDeane/price-paid-data-warehouse) [ SQL, MDX ]  \
     [ Pentaho Data Integration, Pentaho DataCleaner, Pentaho Schema Workbench, Saiku Analytics, Pentaho Report Designer ]  \
       Data warehouse for the UK Price Paid Data on property sales: a MySQL star schema with location and time dimensions, populated through Pentaho Data Integration transformations, then analysed with an OLAP cube, MDX queries and reports.
